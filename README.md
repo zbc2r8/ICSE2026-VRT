@@ -14,7 +14,12 @@ Examples of static user interactions presenting several distinct issues, such as
 
 Examples of dynamic user interactions showcasing a correct (left) and incorrect (right) usability scenario due to reachability and rendering problems:
 
-Correct: ![Demo of the app](usability_examples/correct.gif)  Issue: ![Demo of the app](usability_examples/unreachable.gif)
+![Demo of the app](usability_examples/correct.gif)                      Correct Interaction @ 1fps 
+
+![Demo of the app](usability_examples/misplaced.gif) Incorect interaction - Issue: Misplaced Avatar @ 3fps 
+
+![Demo of the app](usability_examples/unreachable.gif) Incorect interaction - Issue: Unreachable Target & Fragmented Avatar @ 5fps 
+
 
 
 # Structure of the repository
